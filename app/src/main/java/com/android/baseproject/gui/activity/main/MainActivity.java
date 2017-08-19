@@ -1,9 +1,9 @@
-package vj.com.androidmvpsample.main;
+package com.android.baseproject.gui.activity.main;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import vj.com.androidmvpsample.R;
+import com.android.baseproject.R;
 
 public class MainActivity extends AppCompatActivity {
   @Override

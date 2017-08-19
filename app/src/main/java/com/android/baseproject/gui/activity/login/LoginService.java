@@ -1,4 +1,4 @@
-package vj.com.androidmvpsample.login;
+package com.android.baseproject.gui.activity.login;
 
 public class LoginService {
   public boolean login(String username, String password) {

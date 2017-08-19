@@ -1,9 +1,9 @@
-package vj.com.androidmvpsample;
+package com.android.baseproject.util;
 
 import android.content.Context;
 import android.content.Intent;
 
-import vj.com.androidmvpsample.main.MainActivity;
+import com.android.baseproject.gui.activity.main.MainActivity;
 
 public class ActivityUtil {
   private Context context;

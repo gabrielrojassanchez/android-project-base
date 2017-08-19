@@ -1,4 +1,4 @@
-package vj.com.androidmvpsample.login;
+package com.android.baseproject.gui.activity.login;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 
-import vj.com.androidmvpsample.R;
+import com.android.baseproject.R;
 
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;

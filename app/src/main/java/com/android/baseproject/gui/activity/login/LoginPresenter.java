@@ -1,6 +1,6 @@
-package vj.com.androidmvpsample.login;
+package com.android.baseproject.gui.activity.login;
 
-import vj.com.androidmvpsample.R;
+import com.android.baseproject.R;
 
 /**
  * Created by vivekjain on 5/31/15.

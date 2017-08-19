@@ -1,4 +1,4 @@
-package vj.com.androidmvpsample.login;
+package com.android.baseproject.gui.activity.login;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import vj.com.androidmvpsample.ActivityUtil;
-import vj.com.androidmvpsample.R;
+import com.android.baseproject.util.ActivityUtil;
+import com.android.baseproject.R;
 
 import static android.widget.Toast.LENGTH_SHORT;
 

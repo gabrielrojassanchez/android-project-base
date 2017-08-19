@@ -1,4 +1,4 @@
-package vj.com.androidmvpsample.login;
+package com.android.baseproject.gui.activity.login;
 
 /**
  * Created by vivekjain on 5/31/15.

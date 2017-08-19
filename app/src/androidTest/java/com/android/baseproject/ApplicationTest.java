@@ -1,4 +1,4 @@
-package vj.com.androidmvpsample;
+package com.android.baseproject;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
